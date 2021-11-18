@@ -1,0 +1,10 @@
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\bin\Debug\Giles_Lab6.exe.config
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\bin\Debug\Giles_Lab6.exe
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\bin\Debug\Giles_Lab6.pdb
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\obj\Debug\Giles_Lab6.csproj.AssemblyReference.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\obj\Debug\Giles_Lab6.FrmTranslator.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\obj\Debug\Giles_Lab6.Properties.Resources.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\obj\Debug\Giles_Lab6.csproj.GenerateResource.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\obj\Debug\Giles_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\obj\Debug\Giles_Lab6.exe
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab6\Giles_Lab6\obj\Debug\Giles_Lab6.pdb
